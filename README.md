@@ -5,5 +5,5 @@
 * Drop the page weight.
 * And whatever you think neccessary.
 
-###### *Course and materials provided from Udacity. /
-For more information, visit https://www.udacity.com*
+Course and materials provided from Udacity. 
+For more information, visit [https://www.udacity.com]
